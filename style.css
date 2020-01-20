@@ -25,9 +25,9 @@
 .topnav a.active {
   background-color: #4CAF50;
   color: white;
+  {transition:all 0.3s ease-in-out;}
 } */
 
-*{transition:all 0.3s ease-in-out;}
 
 .container{
   clear:both;
@@ -47,3 +47,4 @@ ul li:hover{
   color:orange;
   
 }
+
